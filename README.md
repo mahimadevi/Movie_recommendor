@@ -22,4 +22,9 @@ The Movie Recommender System is beneficial for users who enjoy personalized movi
    streamlit run app.py
 7. Open your web browser and go to the provided local URL (usually http://localhost:8501/) to interact with the Movie Recommender System.
 
+Note: Ensure you have a TMDb API key for fetching movie posters. Update the Streamlit app (app.py) with your API key.
+
+
+Happy movie watching! 🍿🎬
+
 
